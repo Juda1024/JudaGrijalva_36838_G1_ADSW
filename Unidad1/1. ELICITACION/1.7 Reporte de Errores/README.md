@@ -1,1 +1,1 @@
-﻿# 1.7 Reporte de Errores
+﻿# 1.7 Reporte de errores
